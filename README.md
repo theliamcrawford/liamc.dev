@@ -1,2 +1,2 @@
 # liamc.dev
-simple landing page
+A simple landing page.
